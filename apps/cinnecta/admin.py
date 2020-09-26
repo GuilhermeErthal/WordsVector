@@ -5,4 +5,4 @@ from .models import Texts
 
 @admin.register(Texts)
 class TextsAdmin(admin.ModelAdmin):
-    list_display = ()
+    fields = ('text',)

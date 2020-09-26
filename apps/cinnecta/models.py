@@ -1,4 +1,6 @@
 from django.db import models
+from django.db.models.signals import pre_save
+
 
 class Base(models.Model):
     criacao = models.DateTimeField(auto_now_add=True)
@@ -7,12 +9,17 @@ class Base(models.Model):
     class Meta:
         abstract = True
 
+
 class Texts(Base):
+    title = models.CharField(max_length=20)
     text = models.TextField(blank=True, default='')
+    file = models.FileField(blank=False, null=False)
 
     class Meta:
         verbose_name = 'Texts'
         ordering = ['id']
 
     def __str__(self):
-        return self.text
+        return self.title
+
+

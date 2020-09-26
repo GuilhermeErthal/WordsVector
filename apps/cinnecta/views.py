@@ -12,3 +12,5 @@ API V1
 class TextsViewSet(viewsets.ModelViewSet):
     queryset = Texts.objects.all()
     serializer_class = TextsSerializer
+
+
