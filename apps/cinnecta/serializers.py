@@ -8,5 +8,9 @@ class TextsSerializer(serializers.ModelSerializer):
     class Meta:
         model = Texts
         fields = (
+            'title',
             'text',
+            'file',
+            'criacao',
         )
+
