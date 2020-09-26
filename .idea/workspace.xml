@@ -2,28 +2,31 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="66664c93-8fe1-44ba-9261-1332c2fe8160" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/WordsVector.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cinnecta/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cinnecta/admin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cinnecta/apps.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cinnecta/migrations/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cinnecta/models.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cinnecta/tests.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cinnecta/views.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/setup/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/setup/manage.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/setup/settings.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/setup/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/setup/wsgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/cinnecta/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/cinnecta/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cinnecta/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/apps/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cinnecta/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/apps/cinnecta/admin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cinnecta/apps.py" beforeDir="false" afterPath="$PROJECT_DIR$/apps/cinnecta/apps.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cinnecta/migrations/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/apps/cinnecta/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cinnecta/models.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cinnecta/tests.py" beforeDir="false" afterPath="$PROJECT_DIR$/apps/cinnecta/tests.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cinnecta/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/apps/cinnecta/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/setup/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/setup/urls.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -40,7 +43,11 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\hac027\Documents\GitHub\WordsVector" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\hac027\Documents\GitHub\WordsVector\apps" />
       <recent name="C:\Users\hac027\Documents\GitHub\WordsVector\setup" />
     </key>
   </component>
