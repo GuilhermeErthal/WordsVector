@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="66664c93-8fe1-44ba-9261-1332c2fe8160" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/apps/cinnecta/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/apps/cinnecta/models.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/apps/vectorwords/vectors.py" beforeDir="false" afterPath="$PROJECT_DIR$/apps/vectorwords/vectors.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/RESULT.csv" beforeDir="false" afterPath="$PROJECT_DIR$/media/RESULT.csv" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
