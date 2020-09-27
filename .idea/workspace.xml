@@ -2,14 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="66664c93-8fe1-44ba-9261-1332c2fe8160" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/apps/cinnecta/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/apps/cinnecta/admin.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/apps/cinnecta/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/apps/cinnecta/models.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/apps/cinnecta/serializers.py" beforeDir="false" afterPath="$PROJECT_DIR$/apps/cinnecta/serializers.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/apps/cinnecta/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/apps/cinnecta/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/apps/cinnecta/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/apps/cinnecta/views.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/setup/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/setup/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/setup/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/setup/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/vectorwords/vectors.py" beforeDir="false" afterPath="$PROJECT_DIR$/apps/vectorwords/vectors.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,7 +33,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Aula-BIGDATA/exerc" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -163,21 +159,25 @@
       <screen x="8" y="-1080" width="1920" height="1040" />
     </state>
     <state x="727" y="-757" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040/-1912.-1084.1920.1040/8.-1080.1920.1040@8.-1080.1920.1040" timestamp="1601129707877" />
-    <state width="1899" height="173" key="GridCell.Tab.0.bottom" timestamp="1601157915983">
+    <state x="748" y="-805" key="FileChooserDialogImpl" timestamp="1601217434707">
       <screen x="8" y="-1080" width="1920" height="1040" />
     </state>
-    <state width="1899" height="173" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1912.-1084.1920.1040/8.-1080.1920.1040@8.-1080.1920.1040" timestamp="1601157915983" />
-    <state width="1899" height="173" key="GridCell.Tab.0.center" timestamp="1601157915983">
+    <state x="748" y="-805" key="FileChooserDialogImpl/0.0.1920.1040/-1912.-1084.1920.1040/8.-1080.1920.1040@8.-1080.1920.1040" timestamp="1601217434707" />
+    <state width="1899" height="173" key="GridCell.Tab.0.bottom" timestamp="1601217858667">
       <screen x="8" y="-1080" width="1920" height="1040" />
     </state>
-    <state width="1899" height="173" key="GridCell.Tab.0.center/0.0.1920.1040/-1912.-1084.1920.1040/8.-1080.1920.1040@8.-1080.1920.1040" timestamp="1601157915983" />
-    <state width="1899" height="173" key="GridCell.Tab.0.left" timestamp="1601157915983">
+    <state width="1899" height="173" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1912.-1084.1920.1040/8.-1080.1920.1040@8.-1080.1920.1040" timestamp="1601217858667" />
+    <state width="1899" height="173" key="GridCell.Tab.0.center" timestamp="1601217858667">
       <screen x="8" y="-1080" width="1920" height="1040" />
     </state>
-    <state width="1899" height="173" key="GridCell.Tab.0.left/0.0.1920.1040/-1912.-1084.1920.1040/8.-1080.1920.1040@8.-1080.1920.1040" timestamp="1601157915983" />
-    <state width="1899" height="173" key="GridCell.Tab.0.right" timestamp="1601157915983">
+    <state width="1899" height="173" key="GridCell.Tab.0.center/0.0.1920.1040/-1912.-1084.1920.1040/8.-1080.1920.1040@8.-1080.1920.1040" timestamp="1601217858667" />
+    <state width="1899" height="173" key="GridCell.Tab.0.left" timestamp="1601217858667">
       <screen x="8" y="-1080" width="1920" height="1040" />
     </state>
-    <state width="1899" height="173" key="GridCell.Tab.0.right/0.0.1920.1040/-1912.-1084.1920.1040/8.-1080.1920.1040@8.-1080.1920.1040" timestamp="1601157915983" />
+    <state width="1899" height="173" key="GridCell.Tab.0.left/0.0.1920.1040/-1912.-1084.1920.1040/8.-1080.1920.1040@8.-1080.1920.1040" timestamp="1601217858667" />
+    <state width="1899" height="173" key="GridCell.Tab.0.right" timestamp="1601217858667">
+      <screen x="8" y="-1080" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="173" key="GridCell.Tab.0.right/0.0.1920.1040/-1912.-1084.1920.1040/8.-1080.1920.1040@8.-1080.1920.1040" timestamp="1601217858667" />
   </component>
 </project>
