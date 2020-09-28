@@ -9,6 +9,7 @@ Todo o projeto foi desenvolvido utilizando o PyCharm. Mas para sua execução po
 A estrutura para criação do vocabulário foi baseada no algoritmo Map Reduce originado do Google e utilizado em outros sistemas.
 
 Map: É aplicado uma função para cada elemento da lista e pode ser executado de forma paralela, nesse caso contando o número de palavras em uma coleção de ducumentos.
+
 Reduce: Funçao de agrupamento, aplicado em um conjunto de dados reduzindo para um simples valor.
 
 ## Iniciando
